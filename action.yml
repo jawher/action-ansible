@@ -1,0 +1,9 @@
+name: 'Ansible 2.9.7 in Ubuntu 18.04'
+description: 'Runs an ansible playbook'
+author: 'Jawher Moussa'
+branding:
+  icon: 'list'
+  color: 'gray-dark'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
